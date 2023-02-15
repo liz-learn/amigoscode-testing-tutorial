@@ -1,4 +1,4 @@
-[Software Testing course from here:](https://amigoscode.com/courses)
+[Software Testing course from here](https://amigoscode.com/courses)
 
 # Architecture Diagram
 
